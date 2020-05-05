@@ -1,4 +1,4 @@
-# vue-cli-opg1
+# vue-fire-crud
 
 ## Project setup
 ```
